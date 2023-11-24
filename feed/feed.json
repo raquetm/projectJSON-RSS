@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming languages",
+    "home_page_url": "https://raquetm.github.io/projectJSON-RSS/",
+    "feed_url": "https://raquetm.github.io/projectJSON-RSS/feed/feed.json",
+    "items": [
+        {
+            "id": "2",
+            "content_text": "This is Python.",
+            "url": "https://raquetm.github.io/projectJSON-RSS/python.html"
+        },
+        {
+            "id": "1",
+            "content_html": "<p>Hello, Java!</p>",
+            "url": "https://raquetm.github.io/projectJSON-RSS/java.html"
+        }
+    ]
+}
